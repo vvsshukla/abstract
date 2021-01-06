@@ -1,0 +1,2 @@
+<?php
+$procudureSql = 'CREATE PROCEDURE ';
